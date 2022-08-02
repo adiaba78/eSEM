@@ -1,9 +1,9 @@
 --- 
-title: "YOUR TITLE HERE"
-author: "YOUR NAME HERE"
+title: "Essentials of Structural Equation Modeling"
+author: "Abatih Emmanuel"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 ---
 
-# Down the rabbit-hole
+# Introduction
 
